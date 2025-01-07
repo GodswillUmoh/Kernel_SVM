@@ -13,3 +13,13 @@ It is good for non linearly separable data.
 
 ## What is a Higher-Dimensional Space in Machine Learning?
 _In machine learning, a higher-dimensional space refers to a space with more features or dimensions than the original input space. This is often done to make data that is not linearly separable in its original space separable by mapping it to a space where a linear hyperplane can effectively classify the data._
+
+
+## What is a Higher-Dimensional Space in Machine Learning?
+_In machine learning, a higher-dimensional space refers to a space with more features or dimensions than the original input space. This is often done to make data that is not linearly separable in its original space separable by mapping it to a space where a linear hyperplane can effectively classify the data._
+
+### Why Use a Higher-Dimensional Space?
+_Some datasets are non-linearly separable in their current form, meaning no straight line (or hyperplane) can divide the classes. By projecting the data into a higher-dimensional space:_
+
++ Linear Separability: The algorithm can find a hyperplane in the transformed space that separates the classes.
++ Feature Relationships: Non-linear relationships between features in the lower-dimensional space become linear in the higher-dimensional space.
