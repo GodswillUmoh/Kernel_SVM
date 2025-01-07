@@ -48,3 +48,6 @@ _The kernel trick is a computational technique in machine learning, particularly
 
 + Flexibility
 > Different kernel functions allow the algorithm to adapt to a variety of data distributions and relationships.
+
+### The b Guassian Kernel
+[See Diagram](https://www.bing.com/images/search?view=detailV2&ccid=S8n62cdj&id=3809FD4EED3A5886289EF9DFEE4F5EA3B37C6593&thid=OIP.S8n62cdj-8UF_V3jfv8wYAHaFi&mediaurl=https%3A%2F%2Fi.stack.imgur.com%2FP2AvO.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.4bc9fad9c763fbc505fd5de37eff3060%3Frik%3Dk2V8s6NeT%252b7f%252bQ%26pid%3DImgRaw%26r%3D0&exph=419&expw=561&q=the+gaussian+kernel+with+formula&simid=608004066827140605&form=IRPRST&ck=AC074D4D8A70C96D19262BA311A7C28C&selectedindex=3&itb=0&cw=1152&ch=534&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_pQp3EGq3*cp_E0122D707702439DB8743908359DD019*mid_933257529025BE5979B96FA26AAB159C08666545*simid_608004839906875201*thid_OIP.pQp3EGq33iNeE2czbErslQHaFk&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0)
