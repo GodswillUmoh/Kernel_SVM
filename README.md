@@ -31,3 +31,20 @@ _Some datasets are non-linearly separable in their current form, meaning no stra
 
 ## Projecting back to 2D after 2D was projected to 3D
 [See diagram ](https://ibb.co/P486skx)
+
+Note: Mapping to higher dimension is quite a complex computation, hence the kernel trick is used
+
+## Kernel Trick
+
+### What is the Kernel Trick?
+_The kernel trick is a computational technique in machine learning, particularly in Support Vector Machines (SVMs) and other algorithms, that enables the model to perform calculations in a higher-dimensional feature space without explicitly transforming the data into that space. It computes the dot product of data points in the higher-dimensional space directly, using a kernel function._
+
+### Why is the Kernel Trick Important?
++ Efficiency
+> Explicitly transforming data into higher dimensions can be computationally expensive, especially for very high or infinite dimensions. The kernel trick avoids this by working directly with the dot product of the transformed data.
+
++ Handling Non-Linear Problems
+> The kernel trick allows SVM (and other algorithms) to find decision boundaries for non-linearly separable data by implicitly mapping it to a space where it becomes linearly separable.
+
++ Flexibility
+> Different kernel functions allow the algorithm to adapt to a variety of data distributions and relationships.
