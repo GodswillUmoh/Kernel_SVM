@@ -57,3 +57,13 @@ Note: You can achieve complex curves without carrying out higher dimension, the 
 + [Adjusting the circumference to get the constant, Click to view](https://ibb.co/f4bfsqY)
 + [Smaller circumference, click to view](https://ibb.co/JngLxgs)
 + [Complex curve, click to view](https://ibb.co/0q4nvM1)
+
+## Types of Kernel
+### Choosing the Right Kernel
++ Linear Kernel: Use when the data is linearly separable or in high-dimensional spaces (e.g., text data).
++ Polynomial Kernel: Use when the data has polynomial relationships.
++ RBF Kernel: Default choice for most non-linear problems; highly flexible.
++ Sigmoid Kernel: Use when the problem resembles neural network tasks or logistic regression.
+
+### See graph for types of Kernel Functions
++ [Click to view Kernel Function](https://ibb.co/LptgTKp)
